@@ -1,0 +1,6 @@
+## Source: PyPI release history
+# FastAPI is the web framework for defining API routes; Uvicorn is the ASGI server that runs the FastAPI app.
+fastapi==0.115.13 # Build async HTTP APIs
+uvicorn==0.34.3 # Run ASGI app server
+sqlalchemy==2.0.41 # Define and query databases
+pydantic==2.12.5 # Validate and serialize data

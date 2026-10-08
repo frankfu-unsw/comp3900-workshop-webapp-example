@@ -1,0 +1,31 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environment files
+.env
+.env.*
+
+# Local SQLite databases
+tasks-simple.db
+tasks-improved.db
+*.sqlite3
+*.db
+
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/

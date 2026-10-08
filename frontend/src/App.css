@@ -1,0 +1,37 @@
+#taskList {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#taskList>div {
+  margin: 10px;
+  padding: 10px;
+  border: 2px dotted lightblue;
+}
+
+#taskList>div>span {
+  margin-right: 10px;
+  color: darkblue
+}
+
+#taskList>div>button {
+  margin-left: 15px;
+  background-color: lightblue;
+}
+
+
+#addTask {
+  max-width: 500px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+#addTask>input {
+  margin-right: 20px;
+}
+
+#addTask>button {
+  margin-left: 15px;
+  background-color: lightblue;
+}
